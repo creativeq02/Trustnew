@@ -21,10 +21,16 @@ jQuery(function($) {
     
     // Check all animatables and animate them if necessary
 		$animatables.each(function(i) {
-       var $animatable = $(this);
-			if (($animatable.offset().top + $animatable.height() - 20) < offset) {
+      var $animatable = $(this);
+      var element_height = $animatable.outerHeight();
+      var element_top_position = $animatable.offset().top;
+      var element_bottom_position = (element_top_position + element_height);
+			/*if (($animatable.offset().top + $animatable.height() - 20) < offset) {
         $animatable.removeClass('animatable').addClass('animated');
-			}
+			}*/
+      if ((element_bottom_position >= window_top_position) && (element_top_position <= window_bottom_position)) {
+        $animatable.removeClass('animatable').addClass('animated');
+      }
     });
 
 	};
