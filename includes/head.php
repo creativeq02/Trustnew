@@ -1,20 +1,9 @@
 
 <title><?php print $PAGE_TITLE;?></title>
 
-<?php 
-if ($CURRENT_PAGE == "Index") { 
-	echo '<meta name="description" content="" />
-	<meta name="keywords" content="" />';
- } 
- elseif ($CURRENT_PAGE == "Page1") { 
-	echo '<meta name="description" content="" />
-  <meta name="keywords" content="" />';
- } 
- elseif ($CURRENT_PAGE == "Page2") { 
-	echo '<meta name="description" content="" />
-  <meta name="keywords" content="" />';
- } 
-?>
+
+	<meta name="description" content="<?php print $PAGE_DESCRIPTION;?>" />
+	<meta name="keywords" content="<?php print $PAGE_KEYWORDS;?>" />
 
   <!-- Bootstrap Scripts Start here -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
