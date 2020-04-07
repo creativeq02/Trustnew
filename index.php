@@ -8,7 +8,7 @@
 
 <?php include("includes/header.php");?>
 
- <!-- Content Area Starts Here -->
+
 
   <!-- Content Area Section 1 (Banner) Starts -->
   <div class="container-fluid no-padding white-color banner-header" style="background: url(images/home-banner.jpg); background-size: cover;">
