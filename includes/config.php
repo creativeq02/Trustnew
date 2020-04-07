@@ -70,6 +70,42 @@
 			$PAGE_DESCRIPTION = "";
 			$PAGE_KEYWORDS = "";
 			break;
+		case $url . "stories/apollo-programmes.php":
+			$CURRENT_PAGE = "Apollo-Programmes"; 
+			$PAGE_TITLE = "Apollo Programmes";
+			$PAGE_DESCRIPTION = "";
+			$PAGE_KEYWORDS = "";
+			break;
+		case $url . "stories/chat-bot.php":
+			$CURRENT_PAGE = "Chat-Bot"; 
+			$PAGE_TITLE = "Chat Bot";
+			$PAGE_DESCRIPTION = "";
+			$PAGE_KEYWORDS = "";
+			break;
+		case $url . "stories/energy-mate.php":
+			$CURRENT_PAGE = "Energy-Mate"; 
+			$PAGE_TITLE = "Energy Mate";
+			$PAGE_DESCRIPTION = "";
+			$PAGE_KEYWORDS = "";
+			break;
+		case $url . "stories/fish-passage.php":
+			$CURRENT_PAGE = "Fish-Passage"; 
+			$PAGE_TITLE = "Fish Passage";
+			$PAGE_DESCRIPTION = "";
+			$PAGE_KEYWORDS = "";
+			break;
+		case $url . "stories/mobile-plan.php":
+			$CURRENT_PAGE = "Mobile-Plan"; 
+			$PAGE_TITLE = "Mobile Plan";
+			$PAGE_DESCRIPTION = "";
+			$PAGE_KEYWORDS = "";
+			break;
+		case $url . "stories/waipori-story.php":
+			$CURRENT_PAGE = "Waipori-Story"; 
+			$PAGE_TITLE = "Waipori Story";
+			$PAGE_DESCRIPTION = "";
+			$PAGE_KEYWORDS = "";
+			break;
 		default:
 			$CURRENT_PAGE = "Index";
 			$PAGE_TITLE = "Home Page";

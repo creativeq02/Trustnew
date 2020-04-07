@@ -10,7 +10,7 @@
 
 <!-- Content Area Section 1 (Banner) Starts -->
 
-<div class="container-fluid no-padding white-color" style="background: url(../images/waipori-bg.jpg); background-position: center; background-size: cover;">
+<div class="container-fluid no-padding white-color" style="background: url(../images/mob-bg.jpg); background-position: center; background-size: cover;">
   <div class="container p-5">
     <div class="row">
       <div class="col-md-12">
@@ -32,7 +32,7 @@
   </div>
   <div class="row">
     <div class="col-md-6 animatable fadeInLeft">
-      <h1 class="mb-4 mt-3">Waipori Power </br>Station Upgrade</h1>
+      <h1 class="mb-4 mt-3">Mobile Plan</h1>
       <p class="large-text"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dictum nisi, eu hendrerit turpis efficitur nec. In tortor nibh, euismod eget justo ac, maximus vestibulum nunc. Nullam orci quam, accumsan sit amet blandit and ullamcorper et mi. Nullam vel risus lectus.</i></p>
       <p>Ut fermentum urna justo, vitae vehicula libero consectetur in. Proin sollicitudin metus lorem, in accumsan massa mollis a. Suspendisse tempus pellentesque erat, at rhoncus nisi luctus nec. Donec vestibulum, orci non sollicitudin interdum, tortor nunc accumsan urna, at ullamcorper lacus tellus in massa. Praesent eget nisi odio.</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dictum nisi, eu hendrerit turpis efficitur nec. In tortor nibh, euismod eget justo ac, maximus vestibulum nunc. Nullam orci quam, accumsan sit amet blandit and ullamcorper et mi. Nullam vel risus lectus.</p>
@@ -40,7 +40,7 @@
       <p>Ut fermentum urna justo, vitae vehicula libero consectetur in. Proin sollicitudin metus lorem, in accumsan massa mollis a. Suspendisse tempus pellentesque erat, at rhoncus nisi luctus nec. Donec vestibulum, orci non sollicitudin interdum, tortor nunc accumsan urna, at ullamcorper lacus tellus in massa. Praesent eget nisi odio.</p>
     </div>
     <div class="col-md-6 animatable fadeInUp text-center pl-5 pr-5 mt-4">
-       <img src="../images/Waipori-circle.png">
+       <img src="../images/mob-circle.png">
        <p class="huge-text mt-5 primary-color animatable fadeInUp"><i>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dictum nisi, eu hendrerit turpis efficitur nec. In tortor nibh, euismod eget justo ac, maximus."</i></p>
     </div>
   </div>

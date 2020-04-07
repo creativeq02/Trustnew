@@ -3,7 +3,7 @@
     <div class="row align-items-center">
       <div class="col-lg-3 logo pb-2">
         <!-- Upload SVG logo to get maximum quality -->
-        <img src="images/logo.jpg">
+        <a href="https://trusthtml.nzstaging.com/"><img src="images/logo.jpg"></a>
       </div>
       <div class="col-lg-5 menunav">
 
@@ -62,7 +62,7 @@
 
       <!-- Top Right Menu, Search, Download etc. Starts Here -->
       <div class="col-lg-4 search-download">
-    		<div class="header-contact">
+        <div class="header-contact">
           <a href="#">Contact us</a>
         </div>
         <nav class="navbar navbar-expand-sm navbar-light download-nav bg-faded">
