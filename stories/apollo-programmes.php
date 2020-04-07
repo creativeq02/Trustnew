@@ -1,16 +1,16 @@
-<?php include("includes/config.php");?>
+<?php include("../includes/config.php");?>
 <!DOCTYPE html>
 <html>
 <head>
-	<?php include("includes/head.php");?>
+	<?php include("../includes/head.php");?>
 </head>
 <body>
 
-<?php include("includes/header.php");?>
+<?php include("../includes/header.php");?>
 
 <!-- Content Area Section 1 (Banner) Starts -->
 
-<div class="container-fluid no-padding white-color" style="background: url(../images/apollo-bg.jpg); background-position: center; background-size: cover;">
+<div class="container-fluid no-padding white-color" style="background: url(<?php print $url;?>/images/apollo-bg.jpg); background-position: center; background-size: cover;">
   <div class="container p-5">
     <div class="row">
       <div class="col-md-12">
@@ -48,7 +48,7 @@
 
 <!-- Content Area Section 2 Ends -->
 
-<?php include("includes/footer.php");?>
+<?php include("../includes/footer.php");?>
 
 </body>
 </html>

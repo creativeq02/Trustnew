@@ -343,22 +343,22 @@ nav.navbar.download-nav{
 }
 
 .icon-header ul li:nth-child(1) a:before{
-  background-image: url(images/rel.png);
+  background-image: url(../images/rel.png);
 }
 .icon-header ul li:nth-child(2) a:before{
-  background-image: url(images/people-ico.png);
+  background-image: url(../images/people-ico.png);
 }
 .icon-header ul li:nth-child(3) a:before{
-  background-image: url(images/environment.png);
+  background-image: url(../images/environment.png);
 }
 .icon-header ul li:nth-child(4) a:before{
-  background-image: url(images/finance.png);
+  background-image: url(../images/finance.png);
 }
 .icon-header ul li:nth-child(5) a:before{
-  background-image: url(images/kno.png);
+  background-image: url(../images/kno.png);
 }
 .icon-header ul li:nth-child(6) a:before{
-  background-image: url(images/asset.png);
+  background-image: url(../images/asset.png);
 }
 .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
   border-color: transparent;
@@ -543,7 +543,7 @@ img.img-50{
 }
 .download-nav .fa.fa-search:before {
     content: "";
-    background: url(images/search-ico.png);
+    background: url(../images/search-ico.png);
     width: 10px;
     height: 13px;
     background-repeat: no-repeat;
@@ -554,7 +554,7 @@ img.img-50{
 }
 .download-nav .fa.fa-download:before {
     content: "";
-    background: url(images/download-ico.png);
+    background: url(../images/download-ico.png);
     width: 15px;
     height: 17px;
     background-repeat: no-repeat;

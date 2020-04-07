@@ -1,12 +1,12 @@
-<?php include("includes/config.php");?>
+<?php include("../includes/config.php");?>
 <!DOCTYPE html>
 <html>
 <head>
-	<?php include("includes/head.php");?>
+	<?php include("../includes/head.php");?>
 </head>
 <body>
 
-<?php include("includes/header.php");?>
+<?php include("../includes/header.php");?>
 
 <!-- Content Area Section 1 (Banner) Starts -->
 
@@ -48,7 +48,7 @@
 
 <!-- Content Area Section 2 Ends -->
 
-<?php include("includes/footer.php");?>
+<?php include("../includes/footer.php");?>
 
 </body>
 </html>

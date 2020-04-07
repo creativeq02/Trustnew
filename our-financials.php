@@ -30,25 +30,25 @@
   <div class="icon-header container animatable fadeInUp">
     <ul>
       <li>
-        <a href="our-relationships.html">
+        <a href="our-relationships.php">
           <p>Our</p>
           <p>Relationships</p>
         </a>
       </li>
       <li>
-        <a href="our-people.html">
+        <a href="our-people.php">
           <p>Our</p>
           <p>People</p>
         </a>
       </li>
       <li>
-        <a href="our-environment.html">
+        <a href="our-environment.php">
           <p>Our</p>
           <p>Environment</p>
         </a>
       </li>
       <li class="active">
-        <a href="our-financials.html">
+        <a href="our-financials.php">
           <p>Our</p>
           <p>Finances</p>
         </a>
@@ -60,7 +60,7 @@
         </a>
       </li>
       <li>
-        <a href="our-assets-infrastructure.html">
+        <a href="our-assets-infrastructure.php">
           <p>Our Assets &</p>
           <p>Infrastructure</p>
         </a>

@@ -40,9 +40,9 @@
 			$PAGE_DESCRIPTION = "";
 			$PAGE_KEYWORDS = "";
 			break;
-		case $url . "our-finacials.php":
-			$CURRENT_PAGE = "Our-Finacials"; 
-			$PAGE_TITLE = "Our Finacials";
+		case $url . "our-financials.php":
+			$CURRENT_PAGE = "Our-Financials"; 
+			$PAGE_TITLE = "Our Financials";
 			$PAGE_DESCRIPTION = "";
 			$PAGE_KEYWORDS = "";
 			break;

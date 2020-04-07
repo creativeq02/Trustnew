@@ -44,7 +44,7 @@
   <!-- Footer Ends Here -->
 
   <!-- Animation Script -->
-  <script  src="js/script.js"></script>
+  <script  src="<?php print $url;?>js/script.js"></script>
 
   <!-- Burger menu script -->
   <script type="text/javascript">

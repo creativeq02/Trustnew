@@ -3,7 +3,7 @@
     <div class="row align-items-center">
       <div class="col-lg-3 logo pb-2">
         <!-- Upload SVG logo to get maximum quality -->
-        <a href="https://trusthtml.nzstaging.com/"><img src="images/logo.jpg"></a>
+        <a href="https://trusthtml.nzstaging.com/"><img src="<?php print $url;?>images/logo.jpg"></a>
       </div>
       <div class="col-lg-5 menunav">
 
