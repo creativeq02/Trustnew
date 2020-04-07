@@ -1,6 +1,6 @@
 <?php
 
-	$url = "/trustpower-php/";
+	$url = "/";
 
 //This uses the URI which was given in order to access this page; for instance, '/index.html'. 
 	switch ($_SERVER["REQUEST_URI"]) {
